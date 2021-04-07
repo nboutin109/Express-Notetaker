@@ -1,10 +1,10 @@
 # Title
 <p>Express Note-taking Application</p>
 <p>This application allows the user to create, save, delete, and view previous notes through a single webpage</p>
-<a href="https://express-notetaker-app109.herokuapp.com/notes"><img src="public/notes.PNG" height="250px" width="250px"/> </a>
+<a href="https://express-notetaker-app109.herokuapp.com/"><img src="public/notes.PNG" height="250px" width="250px"/> </a>
 
 # Installation
-<p>A live deployment can be found here: <a href="https://express-notetaker-app109.herokuapp.com/notes">https://express-notetaker-app109.herokuapp.com/notes</a></p>
+<p>A live deployment can be found here: <a href="https://express-notetaker-app109.herokuapp.com/">https://express-notetaker-app109.herokuapp.com/</a></p>
 <p>To use locally use the following steps.</p>
 <ol>
     <li>Download the files from Github</li>
